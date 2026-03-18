@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img height="70" src="https://cdn.phototourl.com/uploads/2026-03-18-2d8fbe39-8b7a-44db-804b-d2e3c4051f60.png"  />
+  <img height="50" src="https://cdn.phototourl.com/uploads/2026-03-18-ef367d8d-fd68-4c5c-8481-aaca98565a98.gif"  />
 </div>
 
 <div align="center">
-  <img height="50" src="https://cdn.phototourl.com/uploads/2026-03-18-ef367d8d-fd68-4c5c-8481-aaca98565a98.gif"  />
+  <img height="70" src="https://cdn.phototourl.com/uploads/2026-03-18-2d8fbe39-8b7a-44db-804b-d2e3c4051f60.png"  />
 </div>
 
 <div align="center">

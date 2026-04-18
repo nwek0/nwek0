@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://cdn.phototourl.com/uploads/2026-03-18-e26c4952-8963-4860-b9db-c940519e2884.gif"  />
+  <img height="300" src="https://www.image2url.com/r2/default/images/1776519152560-c753fcad-7c73-4960-94b6-8c7e353ae591.png"  />
 </div>
 
 <div align="center">
@@ -7,13 +7,12 @@
 </div>
 
 <div align="center">
-  <img height="70" src="https://cdn.phototourl.com/uploads/2026-03-18-2d8fbe39-8b7a-44db-804b-d2e3c4051f60.png"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nwek0.nwek0&left_color=darkslateblue&right_color=indianred&left_text=%E1%A1%95%E1%A0%B5%E3%83%87%E6%B0%94%E4%BA%A0%E2%80%8B%20%E2%8C%AF%E2%81%8D"  />
+</div>
+
+<div align="left">
 </div>
 
 <div align="center">
 <a href="https://tamanotchi.world/32153c"><img src="https://tamanotchi.world/i2/32153" alt="It's tamaNOTchi! Click to feed!"></a>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nwek0.nwek0&left_color=coral&right_color=saddlebrown&left_text=fih"  />
 </div>

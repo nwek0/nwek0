@@ -8,11 +8,5 @@
 </div>
 
 <div align="center">
-  <a href="https://tamanotchi.world/32153c">
-    <img src="https://tamanotchi.world/i2/32153" alt="It's tamaNOTchi! Click to feed!">
-  </a>
-</div>
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nwek0.nwek0&left_color=darkslateblue&right_color=indianred&left_text=%E1%A1%95%E1%A0%B5%E3%83%87%E6%B0%94%E4%BA%A0%E2%80%8B%20%E2%8C%AF%E2%81%8D"/>
 </div>

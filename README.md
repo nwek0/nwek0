@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img height="40" src="https://cdn.phototourl.com/uploads/2026-03-18-ef367d8d-fd68-4c5c-8481-aaca98565a98.gif"/>
-</div>
-
-<div align="center">
   <a href="https://litwrallynikss.carrd.co/">carrd</a> ★ 
   <a href="https://guns.lol/nwek0">guns</a>
 </div>

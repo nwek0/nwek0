@@ -10,6 +10,8 @@
   <img height="70" src="https://cdn.phototourl.com/uploads/2026-03-18-2d8fbe39-8b7a-44db-804b-d2e3c4051f60.png"  />
 </div>
 
+<a href="https://tamanotchi.world/32153c"><img src="https://tamanotchi.world/i/32153" alt="It's tamaNOTchi! Click to feed!"></a>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nwek0.nwek0&left_color=coral&right_color=saddlebrown&left_text=fih"  />
 </div>

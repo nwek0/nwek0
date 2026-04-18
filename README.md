@@ -1,5 +1,5 @@
 <div align="center">
-[ <img src="https://www.image2url.com/r2/default/images/1776519152560-c753fcad-7c73-4960-94b6-8c7e353ae591.png" alt="image" />](https://cdn.phototourl.com/free/2026-04-18-dfb33654-439c-49b8-beaa-1223eb487900.png)
+  <img src="https://www.image2url.com/r2/default/images/1776519152560-c753fcad-7c73-4960-94b6-8c7e353ae591.png" alt="image" />
 </div>
 
 <div align="center">

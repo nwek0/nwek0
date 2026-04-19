@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://litwrallynikss.carrd.co/">carrd</a> ★ 
-  <a href="https://guns.lol/nwek0">guns</a>
+  <a href="https://nwek0.carrd.co/">carrd</a> ★ 
+  <a href="https://nwek0.atabook.org/">ata</a>
 
 </div>
 <div align="center">

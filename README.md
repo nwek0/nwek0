@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://nwek0.carrd.co/">carrd</a> ★ 
+  <a href="https://nwek0o.carrd.co/">carrd</a> ★ 
   <a href="https://nwek0.atabook.org/">ata</a>
 
 </div>

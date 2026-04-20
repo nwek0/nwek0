@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" src="https://file.garden/aeOLuGIuTArjgbHD/IMG_9055.png"/>
+  <img height="390" src="https://file.garden/aeOLuGIuTArjgbHD/IMG_9055.png"/>
 </div>
 
 <div align="center">
